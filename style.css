@@ -14,6 +14,13 @@
 .balance {
     font-family: 'Roboto Condensed', sans-serif;
     padding-top: 30px;
+    text-align: center;
+}
+
+#account-balance {
+    color: #9ab278;
+    font-size: 30px;
+    font-weight: 600;
 }
 
 .form-container {
@@ -30,3 +37,4 @@
     min-width: 120px;
     margin-right: 10px;
 }
+
